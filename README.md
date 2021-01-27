@@ -1,5 +1,7 @@
 # Template-Engine-Employee-Summary
 
+![](demo.JPG)
+
 This is an application that generates an software engineering team via the command line. 
 
 ## Instructions
